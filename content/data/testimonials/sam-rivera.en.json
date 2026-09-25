@@ -1,0 +1,16 @@
+{
+  "created": "2026-09-24T00:00:00.000Z",
+  "data": {
+    "author": "Sam Rivera",
+    "quote": "The best sourdough in town, and they remember how you like your loaf.",
+    "rating": 5,
+    "role": "Regular since 2016"
+  },
+  "id": "vx-HQCaDG0W",
+  "meta": {
+    "description": "A regular's review",
+    "title": "Sam Rivera"
+  },
+  "modified": "2026-09-24T00:00:00.000Z",
+  "type": "json"
+}

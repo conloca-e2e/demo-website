@@ -1,0 +1,15 @@
+{
+  "created": "2026-09-24T00:00:00.000Z",
+  "data": {
+    "bio": "Head baker and co-founder. She has fed the same sourdough starter since the day we opened.",
+    "email": "maya@example.com",
+    "name": "Maya Okafor"
+  },
+  "id": "vx-aXXYPTTF",
+  "meta": {
+    "description": "Head baker and co-founder",
+    "title": "Maya Okafor"
+  },
+  "modified": "2026-09-24T00:00:00.000Z",
+  "type": "json"
+}

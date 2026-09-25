@@ -1,0 +1,42 @@
+{
+	"created": "2026-09-24T00:00:00.000Z",
+	"id": "vx-about-demo-cms",
+	"meta": {
+		"description": "How two bakers and one oven became a neighbourhood bakery.",
+		"title": "About us"
+	},
+	"modified": "2026-09-24T00:00:00.000Z",
+	"type": "puck",
+	"content": {
+		"puckData": {
+			"content": [
+				{
+					"props": {
+						"align": "center",
+						"buttons": [
+							{
+								"href": "/",
+								"label": "See what we bake",
+								"variant": "secondary"
+							}
+						],
+						"description": "Two bakers, one oven and a street full of early risers.",
+						"id": "Hero-about-demo",
+						"padding": "96px",
+						"title": "Our story"
+					},
+					"type": "Hero"
+				},
+				{
+					"props": {
+						"contentId": "vx-onRDIpWO",
+						"id": "Fragment_vx-onRDIpWO-our-story"
+					},
+					"type": "Fragment_vx-onRDIpWO"
+				}
+			],
+			"root": {},
+			"zones": {}
+		}
+	}
+}

@@ -1,0 +1,155 @@
+{
+	"created": "2026-09-24T00:00:00.000Z",
+	"id": "vx-iV3wiBS6",
+	"meta": {
+		"description": "Sourdough, pastries and cakes, baked by hand every morning on Juniper Street.",
+		"title": "Home"
+	},
+	"modified": "2026-09-24T00:00:00.000Z",
+	"type": "puck",
+	"content": {
+		"puckData": {
+			"content": [
+				{
+					"props": {
+						"align": "left",
+						"buttons": [
+							{
+								"href": "/about",
+								"label": "Our story",
+								"variant": "primary"
+							}
+						],
+						"description": "Sourdough, pastries and cakes, baked by hand every morning on Juniper Street.",
+						"id": "Hero-home",
+						"padding": "96px",
+						"title": "Bread worth getting up for"
+					},
+					"type": "Hero"
+				},
+				{
+					"props": {
+						"id": "Stats-home",
+						"items": [
+							{
+								"description": "140",
+								"title": "Loaves every morning"
+							},
+							{
+								"description": "12",
+								"title": "Years on Juniper Street"
+							},
+							{
+								"description": "6",
+								"title": "Farms we buy from"
+							}
+						]
+					},
+					"type": "Stats"
+				},
+				{
+					"props": {
+						"align": "left",
+						"id": "Heading-bake",
+						"layout": {
+							"padding": "32px"
+						},
+						"level": "2",
+						"size": "xl",
+						"text": "What we bake"
+					},
+					"type": "Heading"
+				},
+				{
+					"props": {
+						"gap": 24,
+						"id": "Grid-bake",
+						"items": [
+							{
+								"props": {
+									"description": "A two-day rise gives a dark crust, an open crumb and a gentle tang.",
+									"icon": "",
+									"id": "Card-sourdough",
+									"layout": {
+										"grow": false,
+										"padding": "0px",
+										"spanCol": 1,
+										"spanRow": 1
+									},
+									"mode": "card",
+									"title": "Sourdough"
+								},
+								"type": "Card"
+							},
+							{
+								"props": {
+									"description": "Croissants, cinnamon buns and a fruit tart that changes with the season.",
+									"icon": "",
+									"id": "Card-pastries",
+									"layout": {
+										"grow": false,
+										"padding": "0px",
+										"spanCol": 1,
+										"spanRow": 1
+									},
+									"mode": "card",
+									"title": "Pastries"
+								},
+								"type": "Card"
+							},
+							{
+								"props": {
+									"description": "Birthday and wedding cakes, made to your taste. Order a week ahead.",
+									"icon": "",
+									"id": "Card-cakes",
+									"layout": {
+										"grow": false,
+										"padding": "0px",
+										"spanCol": 1,
+										"spanRow": 1
+									},
+									"mode": "card",
+									"title": "Cakes to order"
+								},
+								"type": "Card"
+							}
+						],
+						"layout": {
+							"padding": "0px"
+						},
+						"numColumns": 3
+					},
+					"type": "Grid"
+				},
+				{
+					"props": {
+						"align": "left",
+						"id": "Heading-hours",
+						"layout": {
+							"padding": "32px"
+						},
+						"level": "2",
+						"size": "xl",
+						"text": "Opening hours"
+					},
+					"type": "Heading"
+				},
+				{
+					"props": {
+						"align": "left",
+						"color": "default",
+						"id": "Text-hours",
+						"layout": {
+							"padding": "0px"
+						},
+						"size": "m",
+						"text": "Tuesday to Saturday, 7:00 to 15:00. Sunday, 8:00 to 13:00. Closed on Monday."
+					},
+					"type": "Text"
+				}
+			],
+			"root": {},
+			"zones": {}
+		}
+	}
+}
